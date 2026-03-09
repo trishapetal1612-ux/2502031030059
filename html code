@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Exclusive Store</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="header">
+<div class="logo">Exclusive</div>
+
+<nav class="nav">
+<a href="#">Home</a>
+<a href="#">Contact</a>
+<a href="#">About</a>
+<a href="#">Sign Up</a>
+</nav>
+
+<input type="text" placeholder="Search product">
+</header>
+
+
+<section class="hero">
+<h1>Up to 10% Off Voucher</h1>
+<p>Shop Now</p>
+</section>
+
+
+<section class="flash">
+
+<h2>Flash Sales</h2>
+
+<div class="product-container">
+
+<div class="product">
+<img src="images/gamepad.jpg">
+<h4>HAVIT Gamepad</h4>
+<p>$120</p>
+<button>Add to Cart</button>
+</div>
+
+<div class="product">
+<img src="images/keyboard.jpg">
+<h4>Gaming Keyboard</h4>
+<p>$960</p>
+<button>Add to Cart</button>
+</div>
+
+<div class="product">
+<img src="images/monitor.jpg">
+<h4>Gaming Monitor</h4>
+<p>$370</p>
+<button>Add to Cart</button>
+</div>
+
+<div class="product">
+<img src="images/chair.jpg">
+<h4>Comfort Chair</h4>
+<p>$375</p>
+<button>Add to Cart</button>
+</div>
+
+</div>
+
+</section>
+
+
+<section class="category">
+
+<h2>Browse By Category</h2>
+
+<div class="category-box">
+
+<div class="cat">Phones</div>
+<div class="cat">Computers</div>
+<div class="cat">SmartWatch</div>
+<div class="cat">Camera</div>
+<div class="cat">HeadPhones</div>
+<div class="cat">Gaming</div>
+
+</div>
+
+</section>
+
+
+<section class="best">
+
+<h2>Best Selling Products</h2>
+
+<div class="product-container">
+
+<div class="product">
+<img src="images/jacket.jpg">
+<h4>North Coat</h4>
+<p>$260</p>
+</div>
+
+<div class="product">
+<img src="images/bag.jpg">
+<h4>Gucci Bag</h4>
+<p>$960</p>
+</div>
+
+<div class="product">
+<img src="images/cooler.jpg">
+<h4>RGB CPU Cooler</h4>
+<p>$160</p>
+</div>
+
+<div class="product">
+<img src="images/table.jpg">
+<h4>Small BookShelf</h4>
+<p>$360</p>
+</div>
+
+</div>
+
+</section>
+
+
+<section class="promo">
+
+<h2>Enhance Your Music Experience</h2>
+<button>Buy Now</button>
+
+</section>
+
+
+<section class="explore">
+
+<h2>Explore Our Products</h2>
+
+<div class="product-container">
+
+<div class="product">
+<img src="images/dogfood.jpg">
+<h4>Dog Food</h4>
+<p>$100</p>
+</div>
+
+<div class="product">
+<img src="images/camera.jpg">
+<h4>Canon Camera</h4>
+<p>$360</p>
+</div>
+
+<div class="product">
+<img src="images/laptop.jpg">
+<h4>Gaming Laptop</h4>
+<p>$700</p>
+</div>
+
+<div class="product">
+<img src="images/product.jpg">
+<h4>Beauty Product</h4>
+<p>$500</p>
+</div>
+
+</div>
+
+</section>
+
+
+<footer class="footer">
+
+<div class="footer-container">
+
+<div>
+<h3>Exclusive</h3>
+<p>Subscribe for updates</p>
+</div>
+
+<div>
+<h3>Support</h3>
+<p>Dhaka Bangladesh</p>
+</div>
+
+<div>
+<h3>Account</h3>
+<p>My Account</p>
+</div>
+
+<div>
+<h3>Quick Links</h3>
+<p>Privacy Policy</p>
+</div>
+
+</div>
+
+<p class="copy">© 2026 Exclusive Store</p>
+
+</footer>
+
+</body>
+</html>
